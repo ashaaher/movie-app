@@ -1,0 +1,16 @@
+# macOS system files to ignore
+.DS_Store
+._*
+
+# IntelliJ files to ignore
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle files to ignore
+.gradle/
+build/
+
+# Kotlin-specific files to ignore
+*.kotlin_module
