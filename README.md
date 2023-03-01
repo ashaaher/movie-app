@@ -15,46 +15,46 @@ JSON representation of movie :
   ]
 }
 ````
-##Getting Started
+### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-##Prerequisites
+### Prerequisites
 Java 11 
 
 Gradle 8.0 
 
-##Installing
+### Installing
 Clone the repository: 
 
 ```git clone https://github.com/yourusername/project.git```
 
-##Build the project:
+### Build the project:
 ```gradle build```
 
-##Run the project:
+### Run the project:
 ```gradle bootRun```
 
 The application will be available at http://localhost:9001/swagger-ui/
 
-##Running the tests
+### Running the tests
 To run the tests, execute the following command:
 
 ```gradle test```
 
-##QA
+### QA
 swagger URL : http://localhost:9001/swagger-ui/
 
-##DB
+### DB
 
 http://localhost:9001/h2-console
 
 
-##Built With
+### Built With
 Spring Boot - The web framework used
 
 Kotlin - The programming language used 
 
 Gradle - The build tool used
 
-##Authors
+### Author
 Asha Aher
